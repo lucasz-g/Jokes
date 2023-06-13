@@ -1,3 +1,3 @@
-# jokes
+# Jokes
 
 > Get jokes with JokeAPI. 
