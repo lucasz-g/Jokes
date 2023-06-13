@@ -1,3 +1,7 @@
 # Jokes
 
-> Get jokes with JokeAPI. 
+> Get jokes with JokeAPI  
+> 
+```
+ index.php
+```
